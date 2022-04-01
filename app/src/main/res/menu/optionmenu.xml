@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="File"
+        android:id="@+id/File">
+
+        <menu>
+            <item android:title="New"
+                android:id="@+id/New_sm">
+
+            </item>
+
+            <item android:title="Save"
+                android:id="@+id/Save_sm">
+
+            </item>
+
+            <item android:title="Load"
+                android:id="@+id/Load_sm">
+
+            </item>
+
+            <item android:title="Exit"
+                android:id="@+id/Exit_sm">
+
+            </item>
+        </menu>
+    </item>
+
+    <item android:title="Edit"
+        android:id="@+id/Edit">
+
+
+        <menu>
+
+
+
+            <item android:title="Delete"
+                android:id="@+id/Delete_ct">
+
+            </item>
+
+            <item android:title="Send"
+                android:id="@+id/Send">
+
+            </item>
+
+        </menu>
+
+    </item>
+
+    <item android:title="View"
+        android:id="@+id/View">
+
+    </item>
+
+    <item android:title="Tool"
+        android:id="@+id/Tool">
+
+    </item>
+</menu>
